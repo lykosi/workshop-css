@@ -22,6 +22,10 @@ li{
     border-color: #660000;
     background-color: #C03000;
 }
+li a{
+    text-decoration: none;
+    color: #EFECCA;
+}
 li:hover{
     background-color: #009900;
 }
